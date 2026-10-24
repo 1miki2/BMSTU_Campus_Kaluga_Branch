@@ -1,0 +1,3 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" authoring-id="-1165872441" editor-extension-mode="False">
+    <ui:Button text="К главному виду" style="position: absolute; top: 41px; left: 198px; visibility: visible; overflow: visible; display: flex; background-color: rgba(179, 179, 179, 0); background-image: url(&quot;project://database/Assets/Simple%20Buttons/Big%20Buttons/BigPurple.png?fileID=2800000&amp;guid=1007286c832092d4ca0fcba0fad046a3&amp;type=3#BigPurple&quot;); -unity-background-image-tint-color: rgb(255, 244, 244);"/>
+</ui:UXML>
